@@ -1,0 +1,42 @@
+# ================================
+# SQL / MySQL / Data Analysis Project
+# ================================
+
+# SQL dump & backup files
+*.sql.bak
+*.sql~
+*.dump
+*.log
+
+# Raw or temporary datasets (uncomment if needed)
+# If your datasets are part of the project, keep these lines commented
+# data/*.csv
+# data/*.xlsx
+# data/*.xls
+
+# Jupyter Notebook checkpoints (if any notebooks are used)
+.ipynb_checkpoints/
+
+# Python bytecode (for optional helper scripts)
+__pycache__/
+*.pyc
+
+# IDE-specific folders
+.vscode/
+.idea/
+*.code-workspace
+
+# System files (macOS / Windows)
+.DS_Store
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Optional: exclude auto-generated visuals (uncomment if not needed)
+# visuals/*.png
+# visuals/*.jpg
+# visuals/*.pdf
